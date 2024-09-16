@@ -37,7 +37,10 @@ ________________________________________________________________________________
 Botón de Usar.
 
 La funcionalidad del botón de "Usar" dependerá del tag del objeto en el slot correspondiente:
+__________________________________________________________________________________
+
 LifePot (Poción de Vida):
+
 Al usar este objeto, se comprobará la escala del objeto referenciado en el Inspector.
 Si su escala es menor a 1.1, se aumentará su escala en el eje X en 0.25 unidades con un límite de 1.
 __________________________________________________________________________________
