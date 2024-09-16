@@ -10,6 +10,7 @@ ________________________________________________________________________________
 
 Características Básicas:
 
+Utilizando el URP(dado que es un proyecto en VR) crear el escenario con los objetos y las interfaces indicados en el documento.
 
 Al señalar con el rayo y hacer clic con el grip(el lateral del mando)sobre cualquiera de estos objetos, e
 l objeto seleccionado se acerca al controlador (equivalente a la mano)y el código detecta el tag del objeto con el que choca el collider. 
