@@ -72,9 +72,11 @@ Al usar la munición, se recargará el arma, y la variable loaded volverá a ser
 __________________________________________________________________________________
 
 
-Este planteamiento asegura una estructura clara y modular(aunque muy mejorable en este sentido), 
-con interacciones para el usuario en un entorno de realidad virtual,
-cumpliendo con los objetivos principales dentro del tiempo ofreciendo una funcionalidad básica.
+Este planteamiento quizás no sea el mejor o no es la estructura más clara, si se esperaba otro tipo de solucion al problema
+me gustaria recibir feedback para poder tenerlo en cuenta en el futuro y seguir mejorando.
+
+__________________________________________________________________________________
+¡Gracias por vuestro tiempo! 
 
 
 
