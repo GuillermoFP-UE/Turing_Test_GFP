@@ -3,7 +3,8 @@ Descripción del Proyecto:
 Desarrollar una interfaz de usuario volumétrica en realidad virtual que permita al usuario visualizar y gestionar un inventario limitado, 
 en este caso utilizando el Meta All-in-One SDK y el Meta XR Interaction SDK, empleando solo los controladores (sin hand tracking).
 
-Dada la limitación de tiempo, decidí enfocarme en desarrollar una solución básica pero funcional (aunque mejorable) en el menor tiempo posible mostrando mi conocimiento en diseño eficiente,
+Dada la limitación de tiempo, decidí enfocarme en desarrollar una solución básica pero funcional (aunque mejorable) en el menor tiempo posible
+mostrando mi conocimiento en diseño VR controlando rotaciones escala y velocidades en la interacion con los diferentes objetos,
 por lo que opté por diseñar una experiencia que simula un pequeño juego de feria en lugar de utilizar una pistola de manera convencional desde la mano del jugador.
 __________________________________________________________________________________
 
