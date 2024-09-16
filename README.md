@@ -10,7 +10,7 @@ Desarrollar una interfaz de usuario en realidad virtual que permita al usuario v
 en este caso utilizando el Meta All-in-One SDK y el Meta XR Interaction SDK.
 
 Dada la limitación de tiempo, decidí enfocarme en desarrollar una solución básica pero funcional (aunque mejorable) en el menor tiempo posible
-mostrando mi conocimiento en diseño VR controlando rotaciones, escalas y velocidades en la interacion con los diferentes objetos,
+mostrando mi conocimiento en diseño VR controlando rotaciones, escalas y velocidades en la interación con los diferentes objetos,
 por lo que opté por diseñar una experiencia que simula un pequeño juego de feria en lugar de utilizar una pistola de manera convencional desde la mano del jugador.
 __________________________________________________________________________________
 
