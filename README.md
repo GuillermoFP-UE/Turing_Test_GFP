@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 Características Básicas:
 
-Utilizando el URP(dado que es un proyecto en VR) crear el escenario con los objetos y las interfaces indicados en el documento.
+Utilizando el URP(dado que es un proyecto en VR ahorraremos en recursos) crear el escenario con los objetos y las interfaces indicados en el documento.
 
 Al señalar con el rayo y hacer clic con el grip(el lateral del mando) sobre cualquiera de estos objetos, el objeto seleccionado se acerca al controlador (equivalente a la mano)y el código detecta el tag del objeto con el que choca el collider. 
 Si el objeto tiene uno de los siguientes tags: LifePot, Pistol o Ammo, se debe eliminar y usar su tag como string para sobreescribir el TMP del primer slot disponible en inventario.
@@ -57,7 +57,7 @@ Al usar el arma, se alternara la activación del mesh render referenciado en el 
 
 Se debe verificar si el arma tiene munición a través de una variable booleana expuesta en el editor llamada loaded.
 
-Si loaded es true, se comprobará la escala de un objeto (barra de vida) referenciado en el Inspector. Si su escala en el eje X es mayor que 0.2 y menor que 1.1, su escala decrecerá en 0.25 unidades.
+Si loaded es true, se comprobará la escala de un objeto (barra de vida) referenciado en el Inspector. Si su escala en el eje X es mayor que 0.2 y menor que 1.1(para evitar problemas de redondeo), su escala decrecerá en 0.25 unidades.
 
 Si la escala llega a 0, no se debe decrecer más, incluso si el arma sigue siendo usada.
 
