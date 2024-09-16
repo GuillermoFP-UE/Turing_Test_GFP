@@ -1,3 +1,9 @@
+Video Overview del Proyecto:
+
+https://www.youtube.com/watch?v=A_VGgLGJwRw
+
+__________________________________________________________________________________
+
 Descripción del Proyecto:
 
 Desarrollar una interfaz de usuario volumétrica en realidad virtual que permita al usuario visualizar y gestionar un inventario limitado, 
